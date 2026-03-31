@@ -18,6 +18,8 @@ function App() {
       Start your Mission X here!🕺
     </div>
 
+    <div>This is me working really hard</div>
+
     <ProjectLibrary></ProjectLibrary>
 
     <StudentDashboard></StudentDashboard>
